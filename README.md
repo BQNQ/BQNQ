@@ -14,7 +14,7 @@ Currently seeking my first DevOps role.
 - ### CI/CD ECS project 🔄
   CI/CD pipeline for automated Docker application deployment on AWS using GitHub Actions, Amazon ECS Fargate, Amazon ECR and Application Load Balancer.
 
-  Repo: [CI/CD ECS project](https://github.com/BQN/aws-ecs-cicd-pipeline)
+  Repo: [CI/CD ECS project](https://github.com/BQNQ/aws-ecs-cicd-pipeline)
 
 ## 🧠 Skills
 - **Cloud:** AWS
